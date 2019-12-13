@@ -1,0 +1,10 @@
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\bin\Debug\TimeIsMyCompanion.exe.config
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\bin\Debug\TimeIsMyCompanion.exe
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\bin\Debug\TimeIsMyCompanion.pdb
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.csprojAssemblyReference.cache
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.Form1.resources
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.Properties.Resources.resources
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.csproj.GenerateResource.cache
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.csproj.CoreCompileInputs.cache
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.exe
+E:\Semester 3\C#\TimeIsMyCompanion\TimeIsMyCompanion\obj\Debug\TimeIsMyCompanion.pdb
